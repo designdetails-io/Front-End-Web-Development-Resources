@@ -496,6 +496,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 
 - [Admire The Web](https://www.admiretheweb.com/) - Admire the Web is where we showcase the very best in website design inspiration - carefully curated and organised to keep you inspired. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Awwwards](https://www.awwwards.com/) - The Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Design Details](https://designdetails.io/) - A free curated library of live websites with great motion, sorted by sections, type and color. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Dribble](https://dribbble.com/) - Dribbble is where designers gain inspiration, feedback, community, and jobs and is your best resource to discover and connect with designers worldwide. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Site Inspire](https://www.siteinspire.com/) - siteInspire is a showcase of the finest web and interactive design. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Web design Inspiration](http://www.webdesign-inspiration.com/) - Find inspiration for your next web design project. We help web designers, digital agencies and entrepreneurs to be inspired. Everyday, our team of experts hand picks the best new web designs from all over the world. ![Free](https://img.shields.io/badge/-Free-brightgreen)
